@@ -52,8 +52,8 @@ I'm a passionate developer with expertise in **MERN Stack, React Native, AI/ML, 
 🏆 **Winner** – Emoji-Quiz (Organized by GDG Kanpur)  
 🥈 **Runner-up** – HackTU 5.0 (Thapar University, Patiala)  
 🥈 **Runner-up** – Code-O-Fiesta 2.0 (Maharana Pratap Group of Institutions, Kanpur)
-💡 **Developed** – Hostel ERP serving **500+ students & staff**, optimizing efficiency.  
 📈 **Solved** – 450+ problems on GFG | 260+ on LeetCode  
+💡 **Developed** – Hostel ERP serving **500+ students & staff**, optimizing efficiency.  
 ⭐ **5-Star** – C on HackerRank  
 
 ---
