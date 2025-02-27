@@ -1,6 +1,8 @@
-### Hi there, I'm **Abhiraj Dixit**! 👋
+### <p align="center">Hi there, I'm <strong>Abhiraj Dixit</strong>! 👋</p>
 
-🚀 **Tech Enthusiast | Full-Stack Developer | AI & Blockchain Explorer**
+<p align="center">
+  🚀 <strong>Tech Enthusiast | Full-Stack Developer | AI & Blockchain Explorer</strong>
+</p>
 
 ---
 
@@ -17,6 +19,14 @@ I'm a passionate developer with expertise in **MERN Stack, React Native, AI/ML, 
 ---
 
 ### 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 - **Languages:** JavaScript, TypeScript, Python, C, C++
 - **Frontend:** React, Next.js, React Native, Tailwind CSS, Framer Motion
@@ -55,12 +65,14 @@ I'm a passionate developer with expertise in **MERN Stack, React Native, AI/ML, 
 
 ### 📫 Connect with Me
 
-🌍 **Portfolio:** [My Portfolio](https://portfolio-delta-ashen-42.vercel.app/)  
-📩 **Email:** abhirajdixit412@gmail.com  
-💼 **LinkedIn:** [Abhiraj Dixit](https://www.linkedin.com/in/abhiraj-dixit-960a50244/)  
-👨‍💻 **GitHub:** [Aabhiraj412](https://github.com/Aabhiraj412)  
-🐦 **X (Twitter):** [@AbhirajDixit11](https://x.com/AbhirajDixit11)  
+<p align="center">
+  <a href="https://portfolio-delta-ashen-42.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:abhirajdixit412@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhiraj-dixit-960a50244/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Aabhiraj412"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/AbhirajDixit11"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+</p>
 
 ---
 
-✨ _"Code, Build, Innovate!"_ 🚀
+<p align="center">✨ <em>"Code, Build, Innovate!"</em> 🚀</p>
