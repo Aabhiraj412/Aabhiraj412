@@ -62,14 +62,14 @@ Always eager to learn and explore cutting-edge technologies! 😃
 
 ---
 
-### 🚀 **Some of My Top Projects**  
+## 🚀 **Some of My Top Projects**  
 
 <p align="center">
   <table>
     <tr>
-      <th>Project</th>
-      <th>Tech Stack</th>
-      <th>Description</th>
+      <th>🚀 Project</th>
+      <th>🛠 Tech Stack</th>
+      <th>📌 Description</th>
     </tr>
     <tr>
       <td><strong><a href="#">LiftUp</a></strong></td>
@@ -109,9 +109,6 @@ Always eager to learn and explore cutting-edge technologies! 😃
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FF66&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FF66&height=200&section=footer&text=✨%20Code,%20Build,%20Innovate!%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-<p align="center">✨ <em>"Code, Build, Innovate!"</em> 🚀</p>
-
 
