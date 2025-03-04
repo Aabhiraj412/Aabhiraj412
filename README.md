@@ -83,12 +83,12 @@ Always eager to learn and explore cutting-edge technologies! 😃
     </tr>
     <tr>
       <td><strong><a href="#">BlueSyncGuard</a></strong></td>
-      <td>Bluetooth, Security</td>
+      <td>Bluetooth, Python, Bash</td>
       <td>Real-time Bluetooth monitoring tool</td>
     </tr>
     <tr>
       <td><strong><a href="#">Hostel ERP</a></strong></td>
-      <td>MERN Stack, Prisma</td>
+      <td>MERN Stack, React Native</td>
       <td>Efficient hostel management system</td>
     </tr>
   </table>
