@@ -62,24 +62,37 @@ Always eager to learn and explore cutting-edge technologies! 😃
 
 ---
 
-## 🎨 Featured Projects  
+### 🚀 **Some of My Top Projects**  
 
 <p align="center">
-  <a href="#">
-    <img src="https://github.com/Aabhiraj412/LiftUp/assets/placeholder.jpg" width="40%" />
-  </a>
-  <a href="#">
-    <img src="https://github.com/Aabhiraj412/ELSA/assets/placeholder.jpg" width="40%" />
-  </a>
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Tech Stack</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><strong><a href="#">LiftUp</a></strong></td>
+      <td>React, React Native, Node.js, AI/ML</td>
+      <td>AI-driven career guidance platform</td>
+    </tr>
+    <tr>
+      <td><strong><a href="#">ELSA</a></strong></td>
+      <td>Python, SpeechRecognition</td>
+      <td>AI-powered local voice assistant</td>
+    </tr>
+    <tr>
+      <td><strong><a href="#">BlueSyncGuard</a></strong></td>
+      <td>Bluetooth, Security</td>
+      <td>Real-time Bluetooth monitoring tool</td>
+    </tr>
+    <tr>
+      <td><strong><a href="#">Hostel ERP</a></strong></td>
+      <td>MERN Stack, Prisma</td>
+      <td>Efficient hostel management system</td>
+    </tr>
+  </table>
 </p>
-
-### 🚀 **Some of My Top Projects**
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[LiftUp](#)** | React, Node.js, AI/ML | AI-driven career guidance platform |
-| **[ELSA](#)** | Python, SpeechRecognition | AI-powered local voice assistant |
-| **[BlueSyncGuard](#)** | Bluetooth, Security | Real-time Bluetooth monitoring tool |
-| **[Hostel ERP](#)** | MERN Stack | Efficient hostel management system |
 
 ---
 
