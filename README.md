@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  🚀 <strong>Tech Enthusiast | Full-Stack Developer | AI Explorer</strong>
+  <strong>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Tech+Enthusiast|Full-Stack+Developer|AI+Explorer" />
+  </strong>
 </p>
 
 ---
@@ -15,9 +17,9 @@ I thrive on building scalable applications, contributing to open-source projects
 Always eager to learn and explore cutting-edge technologies! 😃  
 
 ### 💡 **Current Projects**  
-🔭 **Building:** [LiftUp](#) – An AI-powered career guidance platform.  
-🎙 **Developing:** [ELSA](#) – An AI-driven local voice assistant for productivity.  
-🔵 **Securing:** [BlueSyncGuard](#) – A real-time Bluetooth monitoring & security tool.  
+🔭 **Building:** [LiftUp](#) – AI-powered career guidance platform.  
+🎙 **Developing:** [ELSA](#) – AI-driven local voice assistant for productivity.  
+🔵 **Securing:** [BlueSyncGuard](#) – Real-time Bluetooth monitoring & security tool.  
 🏢 **Optimized:** [Hostel ERP](#) – Managing **500+ users**, streamlining operations.  
 📚 **Exploring:** Hugging Face, Blockchain, and Cloud Computing.  
 
@@ -53,46 +55,46 @@ Always eager to learn and explore cutting-edge technologies! 😃
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aabhiraj412&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aabhiraj412&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabhiraj412&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aabhiraj412&theme=radical" alt="GitHub Streak" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aabhiraj412&show_icons=true&theme=radical" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabhiraj412&layout=compact&theme=radical" alt="Top Languages" height="150px" />
 </p>
 
 ---
 
-## 🚀 **Some of My Top Projects**  
+## 🚀 **Top Projects**  
 
-<p align="center">
-  <table>
+<table align="center" style="border-collapse: collapse;">
+  <thead>
     <tr>
-      <th>🚀 Project</th>
-      <th>🛠 Tech Stack</th>
-      <th>📌 Description</th>
+      <th style="text-align: left; padding: 10px; font-size: 18px;">🚀 Project</th>
+      <th style="text-align: left; padding: 10px; font-size: 18px;">🛠 Tech Stack</th>
+      <th style="text-align: left; padding: 10px; font-size: 18px;">📌 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px;"><strong><a href="#">LiftUp</a></strong></td>
+      <td style="padding: 10px;">React, React Native, Node.js, AI/ML</td>
+      <td style="padding: 10px;">AI-driven career guidance platform</td>
     </tr>
     <tr>
-      <td><strong><a href="#">LiftUp</a></strong></td>
-      <td>React, React Native, Node.js, AI/ML</td>
-      <td>AI-driven career guidance platform</td>
+      <td style="padding: 10px;"><strong><a href="#">ELSA</a></strong></td>
+      <td style="padding: 10px;">Python, SpeechRecognition</td>
+      <td style="padding: 10px;">AI-powered local voice assistant</td>
     </tr>
     <tr>
-      <td><strong><a href="#">ELSA</a></strong></td>
-      <td>Python, SpeechRecognition</td>
-      <td>AI-powered local voice assistant</td>
+      <td style="padding: 10px;"><strong><a href="#">BlueSyncGuard</a></strong></td>
+      <td style="padding: 10px;">Bluetooth, Python, Bash</td>
+      <td style="padding: 10px;">Real-time Bluetooth monitoring tool</td>
     </tr>
     <tr>
-      <td><strong><a href="#">BlueSyncGuard</a></strong></td>
-      <td>Bluetooth, Python, Bash</td>
-      <td>Real-time Bluetooth monitoring tool</td>
+      <td style="padding: 10px;"><strong><a href="#">Hostel ERP</a></strong></td>
+      <td style="padding: 10px;">MERN Stack, React Native</td>
+      <td style="padding: 10px;">Efficient hostel management system</td>
     </tr>
-    <tr>
-      <td><strong><a href="#">Hostel ERP</a></strong></td>
-      <td>MERN Stack, React Native</td>
-      <td>Efficient hostel management system</td>
-    </tr>
-  </table>
-</p>
+  </tbody>
+</table>
 
 ---
 
@@ -111,4 +113,3 @@ Always eager to learn and explore cutting-edge technologies! 😃
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FF66&height=200&section=footer&text=✨%20Code,%20Build,%20Innovate!%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
