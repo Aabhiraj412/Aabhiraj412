@@ -17,7 +17,7 @@ I thrive on building scalable applications, contributing to open-source projects
 Always eager to learn and explore cutting-edge technologies! 😃  
 
 ### 💡 **Current Projects**    
-🏢 **Optimized:** [Hostel ERP](#) – Managing **500+ users**, streamlining operations.
+🏢 **Optimized:** [Hostel ERP](#) – Managing **500+ users**, streamlining operations.  
 🔭 **Building:** [Krishi-SETU](#) – AI-powered Farmer guidance platform.  
 🎙 **Developing:** [ELSA](#) – AI-driven local voice assistant for productivity.  
 🔵 **Securing:** [BlueSyncGuard](#) – Real-time Bluetooth monitoring & security tool.  
@@ -45,7 +45,7 @@ Always eager to learn and explore cutting-edge technologies! 😃
 
 🏆 **Winner** – Quiz Competition (Organized by GDG Kanpur)    
 🥈 **Runner-up** – Code-O-Fiesta 2.0 (Maharana Pratap Group of Institutions, Kanpur)  
-🥈 **2nd Runner-up** – HackTU 5.0 (Thapar University, Patiala)
+🥈 **2nd Runner-up** – HackTU 5.0 (Thapar University, Patiala)  
 💡 **Developed** – Hostel ERP serving **500+ students & staff**, optimizing efficiency.  
 📈 **Solved** – 550+ problems on GFG | 450+ on LeetCode  
 ⭐ **5-Star** – C, C++, Python on HackerRank  
