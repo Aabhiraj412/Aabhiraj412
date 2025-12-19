@@ -12,15 +12,15 @@
 
 ## 🚀 About Me  
 
-I'm a passionate developer with expertise in **MERN Stack, React Native, AI/ML, Cloud & DevOps**.  
+I'm a passionate developer with expertise in **MERN Stack, React Native, Flutter, AI/ML, Cloud & DevOps**.  
 I thrive on building scalable applications, contributing to open-source projects, and tackling challenges in hackathons.  
 Always eager to learn and explore cutting-edge technologies! 😃  
 
-### 💡 **Current Projects**  
-🔭 **Building:** [LiftUp](#) – AI-powered career guidance platform.  
+### 💡 **Current Projects**    
+🏢 **Optimized:** [Hostel ERP](#) – Managing **500+ users**, streamlining operations.
+🔭 **Building:** [Krishi-SETU](#) – AI-powered Farmer guidance platform.  
 🎙 **Developing:** [ELSA](#) – AI-driven local voice assistant for productivity.  
 🔵 **Securing:** [BlueSyncGuard](#) – Real-time Bluetooth monitoring & security tool.  
-🏢 **Optimized:** [Hostel ERP](#) – Managing **500+ users**, streamlining operations.  
 📚 **Exploring:** Hugging Face, Blockchain, and Cloud Computing.  
 
 ---
@@ -33,7 +33,7 @@ Always eager to learn and explore cutting-edge technologies! 😃
 
 ### 🖥 **Tech Overview**
 - **Languages:** JavaScript, TypeScript, Python, Java, C, C++  
-- **Frontend:** React, Next.js, React Native, Tailwind CSS, Framer Motion  
+- **Frontend:** React, Next.js, React Native, Flutter, Tailwind CSS, Framer Motion  
 - **Backend:** Node.js, Express, FastAPI  
 - **AI/ML:** TensorFlow, PyTorch, OpenCV, Hugging Face, LangChain  
 - **Database:** MongoDB, PostgreSQL, Firebase  
@@ -43,12 +43,12 @@ Always eager to learn and explore cutting-edge technologies! 😃
 
 ## 🌟 Achievements & Highlights  
 
-🏆 **Winner** – Quiz Competition (Organized by GDG Kanpur)  
-🥈 **Runner-up** – HackTU 5.0 (Thapar University, Patiala)  
+🏆 **Winner** – Quiz Competition (Organized by GDG Kanpur)    
 🥈 **Runner-up** – Code-O-Fiesta 2.0 (Maharana Pratap Group of Institutions, Kanpur)  
+🥈 **2nd Runner-up** – HackTU 5.0 (Thapar University, Patiala)
 💡 **Developed** – Hostel ERP serving **500+ students & staff**, optimizing efficiency.  
-📈 **Solved** – 450+ problems on GFG | 260+ on LeetCode  
-⭐ **5-Star** – C on HackerRank  
+📈 **Solved** – 550+ problems on GFG | 450+ on LeetCode  
+⭐ **5-Star** – C, C++, Python on HackerRank  
 
 ---
 
@@ -74,9 +74,14 @@ Always eager to learn and explore cutting-edge technologies! 😃
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px;"><strong><a href="#">LiftUp</a></strong></td>
-      <td style="padding: 10px;">React, React Native, Node.js, AI/ML</td>
-      <td style="padding: 10px;">AI-driven career guidance platform</td>
+      <td style="padding: 10px;"><strong><a href="#">Hostel ERP</a></strong></td>
+      <td style="padding: 10px;">MERN Stack, React Native, Flutter</td>
+      <td style="padding: 10px;">Efficient hostel management system</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong><a href="#">Krishi-SETU</a></strong></td>
+      <td style="padding: 10px;">React, Node.js, AI/ML</td>
+      <td style="padding: 10px;">AI-driven Farmer guidance platform</td>
     </tr>
     <tr>
       <td style="padding: 10px;"><strong><a href="#">ELSA</a></strong></td>
@@ -87,11 +92,6 @@ Always eager to learn and explore cutting-edge technologies! 😃
       <td style="padding: 10px;"><strong><a href="#">BlueSyncGuard</a></strong></td>
       <td style="padding: 10px;">Bluetooth, Python, Bash</td>
       <td style="padding: 10px;">Real-time Bluetooth monitoring tool</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong><a href="#">Hostel ERP</a></strong></td>
-      <td style="padding: 10px;">MERN Stack, React Native</td>
-      <td style="padding: 10px;">Efficient hostel management system</td>
     </tr>
   </tbody>
 </table>
