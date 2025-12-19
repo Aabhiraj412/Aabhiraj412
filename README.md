@@ -84,14 +84,14 @@ Always eager to learn and explore cutting-edge technologies! 😃
       <td style="padding: 10px;">AI-driven Farmer guidance platform</td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><strong><a href="#">ELSA</a></strong></td>
-      <td style="padding: 10px;">Python, SpeechRecognition</td>
-      <td style="padding: 10px;">AI-powered local voice assistant</td>
-    </tr>
-    <tr>
       <td style="padding: 10px;"><strong><a href="#">BlueSyncGuard</a></strong></td>
       <td style="padding: 10px;">Bluetooth, Python, Bash</td>
       <td style="padding: 10px;">Real-time Bluetooth monitoring tool</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong><a href="#">ELSA</a></strong></td>
+      <td style="padding: 10px;">Python, SpeechRecognition</td>
+      <td style="padding: 10px;">AI-powered local voice assistant</td>
     </tr>
   </tbody>
 </table>
