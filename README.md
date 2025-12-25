@@ -17,10 +17,10 @@ I thrive on building scalable applications, contributing to open-source projects
 Always eager to learn and explore cutting-edge technologies! 😃  
 
 ### 💡 **Current Projects**    
-🏢 **Optimized:** [Hostel ERP](#) – Managing **500+ users**, streamlining operations.  
-🔭 **Building:** [Krishi-SETU](#) – AI-powered Farmer guidance platform.  
+🏢 **Optimized:** [Hostel ERP](https://github.com/Aabhiraj412/Hostel-ERP) – Managing **500+ users**, streamlining operations.  
+🔭 **Building:** [Krishi-SETU](https://github.com/Aabhiraj412/Krishi-SETU) – AI-powered Farmer guidance platform.  
+🔵 **Securing:** [BlueSyncGuard](https://github.com/Aabhiraj412/BlueSyncGuard) – Real-time Bluetooth monitoring & security tool.  
 🎙 **Developing:** [ELSA](#) – AI-driven local voice assistant for productivity.  
-🔵 **Securing:** [BlueSyncGuard](#) – Real-time Bluetooth monitoring & security tool.  
 📚 **Exploring:** Hugging Face, Blockchain, and Cloud Computing.  
 
 ---
@@ -74,17 +74,17 @@ Always eager to learn and explore cutting-edge technologies! 😃
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px;"><strong><a href="#">Hostel ERP</a></strong></td>
+      <td style="padding: 10px;"><strong><a href="https://github.com/Aabhiraj412/Hostel-ERP">Hostel ERP</a></strong></td>
       <td style="padding: 10px;">MERN Stack, React Native, Flutter</td>
       <td style="padding: 10px;">Efficient hostel management system</td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><strong><a href="#">Krishi-SETU</a></strong></td>
+      <td style="padding: 10px;"><strong><a href="https://github.com/Aabhiraj412/Krishi-SETU">Krishi-SETU</a></strong></td>
       <td style="padding: 10px;">React, Node.js, AI/ML</td>
       <td style="padding: 10px;">AI-driven Farmer guidance platform</td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><strong><a href="#">BlueSyncGuard</a></strong></td>
+      <td style="padding: 10px;"><strong><a href="https://github.com/Aabhiraj412/BlueSyncGuard">BlueSyncGuard</a></strong></td>
       <td style="padding: 10px;">Bluetooth, Python, Bash</td>
       <td style="padding: 10px;">Real-time Bluetooth monitoring tool</td>
     </tr>
